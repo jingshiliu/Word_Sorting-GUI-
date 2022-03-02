@@ -1,0 +1,10 @@
+Mary had a little lamb
+whose fl33ce was white as sn0w
+And everywhere that @Mary went
+the 1amb was sure to go.
+
+
+Read from a file that contains a paragraph of words. 
+Put all the words in an array, put the valid words (words that have only letters) in a second array, 
+and put the invalid words in a third array. Sort the array of valid words using Selection Sort. 
+Create a GUI to display the arrays using a GridLayout with one row and three columns.
